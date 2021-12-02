@@ -1,2 +1,2 @@
 # DRiLLS
-Code for paper: LEVEL SET LEARNING WITH PSEUDO-REVERSIBLE NEURAL NETWORKS FOR NONLINEAR DIMENSION REDUCTION IN FUNCTION APPROXIMATION
+Repository for the paper "Level Set Learning with Pseudo-Reversible Neural Networks for Nonlinear Dimension Reduction in Function Approximation"
