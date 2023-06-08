@@ -2,8 +2,8 @@
 Code repository for the paper:  
 **Level Set Learning with Pseudo-Reversible Neural Networks for Nonlinear Dimension Reduction in Function Approximation**  
 [Yuankai Teng](https://slooowtyk.github.io), [Zhu Wang](https://people.math.sc.edu/wangzhu), [Lili Ju](https://people.math.sc.edu/ju), [Anthony Gruber](https://agrubertx.github.io/), [Guannan Zhang](https://sites.google.com/view/guannan-zhang)  
-SIAM Journal on Scientific Computing(to appear), 2022 <br>
-[[paper](https://arxiv.org/pdf/2112.01438.pdf)]
+SIAM Journal on Scientific Computing, 2023 <br>
+[[paper](https://epubs.siam.org/doi/abs/10.1137/21M1459198)]
 
 
 ## Training Usage
@@ -51,11 +51,15 @@ python ./evaluate_model.py
 If you  find the idea or code of this paper useful for your research, please consider citing us:
 
 ```bibtex
-@article{teng2021level,
-  title={Level set learning with pseudo-reversible neural networks for nonlinear dimension reduction in function approximation},
+@article{teng2023level,
+  title={Level Set Learning with Pseudoreversible Neural Networks for Nonlinear Dimension Reduction in Function Approximation},
   author={Teng, Yuankai and Wang, Zhu and Ju, Lili and Gruber, Anthony and Zhang, Guannan},
-  journal={arXiv preprint arXiv:2112.01438},
-  year={2021}
+  journal={SIAM Journal on Scientific Computing},
+  volume={45},
+  number={3},
+  pages={A1148--A1171},
+  year={2023},
+  publisher={SIAM}
 }
 ```
 
